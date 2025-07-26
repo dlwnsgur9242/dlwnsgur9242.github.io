@@ -7,31 +7,31 @@ version: 2
 
 # Personal info
 name: 이준혁
-title: Backend Engineer
-email: dlwnsgur9242@gmail.com
+title: Your job title
+email: Your email (optional)
 # email_title: Email (Email title override)
-phone: 010-3977-4569
+phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: -----
+website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-# twitter_username: jekyllrb
-github_username: dlwnsgur9242
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: @def_junhyuk
-# linkedin_username: jekyll
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: jekyll
-# orcid_username: 0000-0000-0000-0000
-# googlescholar_username: D847cGsAAAAJ
+twitter_username: jekyllrb
+github_username:  jekyll
+stackoverflow_username: "00000001"
+dribbble_username: jekyll
+facebook_username: jekyll
+flickr_username: jekyll
+instagram_username: jekyll
+linkedin_username: jekyll
+xing_username: jekyll
+pinterest_username: jekyll
+youtube_username: jekyll
+orcid_username: 0000-0000-0000-0000
+googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
 additional_links:
@@ -52,7 +52,13 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/junhyuk.jpg
 about_content: | # this will include new lines to allow paragraphs
-  백엔드 개발자 이준혁에 대해서
+  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+
+  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+    - Lists
+    - Tables
+    - <a href="google.com">Links</a>
+    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
@@ -132,4 +138,3 @@ exclude : [
   "scripts/",
   "docker-compose.yml",
 ]
-
