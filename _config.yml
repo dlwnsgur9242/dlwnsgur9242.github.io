@@ -33,7 +33,8 @@ content:
     layout: list
     content:
       - layout: left
-        title: 대연씨앤아이 (DAEYEON C&I)
+        title: 대연씨앤아이
+          (DAEYEON C&I)
         sub_title: Backend Engineer
         caption: 2024.12 ~ 2025.04
         link: www.dycni.com
