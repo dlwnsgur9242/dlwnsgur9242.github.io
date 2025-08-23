@@ -10,10 +10,10 @@ name: 이준혁
 title: Backend Engineer
 email: dlwnsgur942@gmail.com
 # email_title: Email (Email title override)
+Blog: junlove-dam1ary.tistory.com
+# website_title: Web (Website title override)
 phone: 010-3977-4569
 # phone_title: Phone (Phone title override)
-website: ----
-# website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -34,7 +34,7 @@ about_content: | # this will include new lines to allow paragraphs
   10년간 꾸준한 운동으로 건강을 관리해왔듯이, 앞으로도 흔들림 없이 개발자의 길을 걷고 제 역할을 다하겠습니다.
 
 content:
-  - title: Projects # Title for the section
+  - title: 경력 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
