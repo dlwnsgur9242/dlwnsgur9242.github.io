@@ -9,10 +9,8 @@ version: 2
 name: 이준혁
 title: Backend Engineer
 email: dlwnsgur942@gmail.com
-# email_title: Email (Email title override)
 phone: 010-3977-4569
-# phone_title: Phone (Phone title override)
-website: ----
+website: junlove-dam1ary.tistory.com
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -22,10 +20,18 @@ darkmode: false
 github_username: dlwnsgur9242
 
 about_profile_image: images/junhyuk.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: |
+  정보통신학부와 백엔드 부트캠프를 수료하며 Python, Java를 기반으로 쇼핑몰, AI 서비스 등 다양한 웹 개발 경험을 쌓았습니다.
 
-content:
-  - title: Projects # Title for the section
+  이후 태양광 발전소 설비 데이터 통신 프로그램 개발 및 유지보수 업무를 담당하며 VB, C++, C#, MSSQL, Modbus 등 다양한 기술 스택을 활용해 실무 경험을 넓혔습니다.
+
+  단순한 기능 구현을 넘어, 사용자가 직면한 문제를 이해하고 기술로 해결책을 제공하는 개발자를 목표로 하고 있습니다.
+
+  성실함과 꾸준함을 바탕으로 전문성을 갖춘 개발자로 성장하고 싶습니다.
+
+  10년간 꾸준한 운동으로 건강을 관리해왔듯이, 앞으로도 흔들림 없이 개발자의 길을 걷고 제 역할을 다하겠습니다.
+content: 경력1
+  - title:  # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
