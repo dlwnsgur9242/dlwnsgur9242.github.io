@@ -14,7 +14,7 @@ phone: 010-3977-4569
 
 darkmode: false
 
-github_username: dlwnsgur9242
+github_username: dlwnsgur9242 
 
 about_profile_image: images/junhyuk.jpg
 about_content: | 
@@ -24,7 +24,7 @@ about_content: |
   이후 태양광 발전소 설비 데이터 통신 프로그램 개발 및 유지보수 업무를 담당하며 VB, C++, C#, MSSQL, Modbus 등 다양한 기술 스택을 활용해 실무 경험을 넓혔습니다.
   
   
-  단순한 기능 구현을 넘어, 사용자가 직면한 문제를 이해하고 기술로 해결책을 제공하는 개발자를 목표로 하고 있습니다. 
+  단순한 기능 구현을 넘어, 사용자가 직면한 문제를 이해하고 기술로 해결책을 제공하는 개발자를 목표로 하고 있습니다.
   
   
   성실함과 꾸준함을 바탕으로 전문성을 갖춘 개발자로 성장하고 싶습니다.
@@ -37,8 +37,21 @@ content:
     layout: list
     content:
       - layout: left
+        title: SM벡셀
+        sub_title: IT Engineer
+        caption: 2025.09 ~ 현재
+        link: www.smbexel.com
+        quote: >
+          자동차 부품 제조업 기업 보안 인프라 담당
+        description: |
+         - 현대·기아차 보안 가이드라인에 맞춘 전사 보안 정책 수립 및 정기 보안 감사(Audit) 대응
+         - 사내 보안 프로세스 개선 및 효율화를 위한 보안 시스템 고도화 자체 개발 프로젝트 수행
+         - 생산 설비, 서버, 네트워크 및 주요 보안 구역(기술연구소 등)의 물리적 출입 통제 및 논리적 접근 권한 관리
+         - 사내 핵심 비즈니스 시스템(ERP, MES, PMS)의 안정적인 운영 및 유지보수 전담
+         - 전사 IT 인프라 트러블슈팅, 임직원 기술 지원 및 표준 운영 매뉴얼 문서화
+
+      - layout: left
         title: 대연씨앤아이
-          (DAEYEON C&I)
         sub_title: Backend Engineer
         caption: 2024.12 ~ 2025.04
         link: www.dycni.com
@@ -80,6 +93,8 @@ content:
         title: 시스템 개발
         sub_title: 통신 및 데이터 수집 시스템 개발
         description: |
+          - [2026.05 ~ 2026.07] 현장 작업일지 관리 시스템 프로그램
+          - [2026.01 ~ 2026.03] 생산 모니터링 시스템 프로그램
           - [2024.12 ~ 2025.04] 태양광 발전소 설비 데이터 통신 프로그램 개발 및 유지보수
           - VB, C++, C#, MSSQL, Modbus 기반의 통신 프로그램 개발을 통해 발전소 설비 데이터의 안정적인 수집 및 모니터링 시스템을 구축
           - 다양한 기술 스택(C#, VB, C++)과 산업용 통신 프로토콜(Modbus)을 활용하여 실무 환경에서의 데이터 연동 및 유지보수 경험
@@ -90,14 +105,15 @@ content:
       - layout: left
         title: Backend
         description: |
-          - Python, Java, C++, C#
-          - Django, Streamlit, Spring
+          - Python, C++, C#, VB
+          - Django, Streamlit
           - FastAPI, RESTAPI
           - Visual Studio Code, IntelliJ, Visual Basic
       - layout: left
         title: DevOps
         description: |
-          - MySQL, MariaDB, PostgreSQL, MSSQL
+          - MSSQL, MariaDB, PostgreSQL, MySQL
+          - Docker
           - Git
       - layout: left
         title: Frontend
@@ -140,6 +156,16 @@ content:
         caption: 2021. 11 ~ 2022. 04
         description: |
           - AI, Python 프로그래밍 기초, 크롤링, Python 데이터 분석 기초 수료
+
+  - title: 자격증
+    layout: list
+    content:
+      - layout: top-left
+        title: 보유 자격증
+        sub_title: 정보처리기사
+        caption: 2026. 06
+        description: |
+          - 정보처리기사 자격증 취득
 
   - title: 수상
     layout: list
