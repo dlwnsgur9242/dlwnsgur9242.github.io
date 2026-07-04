@@ -6,9 +6,9 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: 이준혁
-title: Backend Engineer
-email: dlwnsgur942@naver.com
+# name: 이준혁
+# title: Backend Engineer
+# email: dlwnsgur942@naver.com
 # Blog: 
 # phone:
 
